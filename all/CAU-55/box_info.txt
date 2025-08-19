@@ -1,0 +1,178 @@
+Box dimensions: [50.386 50.386 50.386]
+Volume of the unit cell: 127917.42 Å³
+Community 0 Metrics:
+  - Number dots 11347
+  - Volume: 6053.55 Å³
+  - Clustering Coefficient: 0.4707
+  - Assortativity: 0.6387
+  - Eccentricity: 27.20 Å
+  - Avg. Betweenness Centrality: 0.0010
+----------------------------------------
+Community 1 Metrics:
+  - Number dots 101
+  - Volume: 415.49 Å³
+  - Clustering Coefficient: 0.6197
+  - Assortativity: 0.5833
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0283
+----------------------------------------
+Community 2 Metrics:
+  - Number dots 101
+  - Volume: 489.05 Å³
+  - Clustering Coefficient: 0.6437
+  - Assortativity: 0.6209
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0284
+----------------------------------------
+Community 3 Metrics:
+  - Number dots 87
+  - Volume: 39.25 Å³
+  - Clustering Coefficient: 0.6039
+  - Assortativity: 0.5341
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0203
+----------------------------------------
+Community 4 Metrics:
+  - Number dots 87
+  - Volume: 109.06 Å³
+  - Clustering Coefficient: 0.6290
+  - Assortativity: 0.5742
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0204
+----------------------------------------
+Community 5 Metrics:
+  - Number dots 87
+  - Volume: 947.54 Å³
+  - Clustering Coefficient: 0.6290
+  - Assortativity: 0.5742
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0204
+----------------------------------------
+Community 6 Metrics:
+  - Number dots 87
+  - Volume: 165.89 Å³
+  - Clustering Coefficient: 0.6551
+  - Assortativity: 0.6128
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0205
+----------------------------------------
+Community 7 Metrics:
+  - Number dots 77
+  - Volume: 5.97 Å³
+  - Clustering Coefficient: 0.6554
+  - Assortativity: 0.5744
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0409
+----------------------------------------
+Community 8 Metrics:
+  - Number dots 77
+  - Volume: 14.42 Å³
+  - Clustering Coefficient: 0.6727
+  - Assortativity: 0.6282
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0413
+----------------------------------------
+Community 9 Metrics:
+  - Number dots 76
+  - Volume: 11.43 Å³
+  - Clustering Coefficient: 0.6491
+  - Assortativity: 0.5715
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0402
+----------------------------------------
+Community 10 Metrics:
+  - Number dots 76
+  - Volume: 609.62 Å³
+  - Clustering Coefficient: 0.6728
+  - Assortativity: 0.6242
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0403
+----------------------------------------
+Community 11 Metrics:
+  - Number dots 63
+  - Volume: 21.50 Å³
+  - Clustering Coefficient: 0.6272
+  - Assortativity: 0.5174
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0274
+----------------------------------------
+Community 12 Metrics:
+  - Number dots 63
+  - Volume: 12.63 Å³
+  - Clustering Coefficient: 0.6511
+  - Assortativity: 0.5758
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0276
+----------------------------------------
+Community 13 Metrics:
+  - Number dots 63
+  - Volume: 160.60 Å³
+  - Clustering Coefficient: 0.6272
+  - Assortativity: 0.5174
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0274
+----------------------------------------
+Community 14 Metrics:
+  - Number dots 63
+  - Volume: 11.95 Å³
+  - Clustering Coefficient: 0.6511
+  - Assortativity: 0.5758
+  - Eccentricity: 6.40 Å
+  - Avg. Betweenness Centrality: 0.0276
+----------------------------------------
+Community 15 Metrics:
+  - Number dots 62
+  - Volume: 136.02 Å³
+  - Clustering Coefficient: 0.6377
+  - Assortativity: 0.4477
+  - Eccentricity: 4.00 Å
+  - Avg. Betweenness Centrality: 0.0260
+----------------------------------------
+Community 16 Metrics:
+  - Number dots 62
+  - Volume: 179.37 Å³
+  - Clustering Coefficient: 0.6581
+  - Assortativity: 0.5077
+  - Eccentricity: 4.80 Å
+  - Avg. Betweenness Centrality: 0.0262
+----------------------------------------
+Community 17 Metrics:
+  - Number dots 62
+  - Volume: 657.41 Å³
+  - Clustering Coefficient: 0.6581
+  - Assortativity: 0.5077
+  - Eccentricity: 4.80 Å
+  - Avg. Betweenness Centrality: 0.0262
+----------------------------------------
+Community 18 Metrics:
+  - Number dots 62
+  - Volume: 12.63 Å³
+  - Clustering Coefficient: 0.6836
+  - Assortativity: 0.5666
+  - Eccentricity: 4.80 Å
+  - Avg. Betweenness Centrality: 0.0264
+----------------------------------------
+Community 19 Metrics:
+  - Number dots 56
+  - Volume: 7.42 Å³
+  - Clustering Coefficient: 0.6822
+  - Assortativity: 0.6081
+  - Eccentricity: 10.40 Å
+  - Avg. Betweenness Centrality: 0.0585
+----------------------------------------
+Community 20 Metrics:
+  - Number dots 52
+  - Volume: 39.08 Å³
+  - Clustering Coefficient: 0.5611
+  - Assortativity: 0.5619
+  - Eccentricity: 5.60 Å
+  - Avg. Betweenness Centrality: 0.0341
+----------------------------------------
+Community 21 Metrics:
+  - Number dots 50
+  - Volume: 38.49 Å³
+  - Clustering Coefficient: 0.5822
+  - Assortativity: 0.5824
+  - Eccentricity: 5.60 Å
+  - Avg. Betweenness Centrality: 0.0374
+----------------------------------------
