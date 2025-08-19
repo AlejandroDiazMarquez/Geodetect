@@ -1,4 +1,4 @@
-# Geomof
+# Geodetect
 
 # CIF Porosity Analyzer
 
