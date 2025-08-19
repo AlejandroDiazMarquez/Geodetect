@@ -2,6 +2,8 @@
 
 # CIF Porosity Analyzer
 
+<img width="1452" height="595" alt="image" src="https://github.com/user-attachments/assets/99ad6cb0-049c-4e6b-83c2-7011246dda5d" />
+
 A Python toolkit to quantify porosity in crystalline materials from **CIF** files.  
 It builds a 3D grid inside the (optionally expanded) unit cell, excludes points that fall inside atomic radii + probe size, clusters the remaining **void points** into **pore communities** via graph theory, estimates **pore volumes** with 3D **alpha shapes**, and (optionally) produces a **z-slice GIF** showing pore evolution across the structure.
 
