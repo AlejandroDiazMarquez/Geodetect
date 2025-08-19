@@ -4,7 +4,7 @@
 
 <img width="3405" height="1784" alt="Picture1" src="https://github.com/user-attachments/assets/1385a158-7e32-4d8a-a110-9decad306a98" />
 
-A Python toolkit to quantify porosity in crystalline materials from **CIF** files.  
+A Python toolkit to quantify porosity in crystalline materials from **CIF** files (Guest MOF CAU-55 with defects).  
 It builds a 3D grid inside the (optionally expanded) unit cell, excludes points that fall inside atomic radii + probe size, clusters the remaining **void points** into **pore communities** via graph theory, estimates **pore volumes** with 3D **alpha shapes**, and (optionally) produces a **z-slice GIF** showing pore evolution across the structure.
 
 - **Input:** CIF files in `./CIFs/` and a `radius` database file  
